@@ -9,8 +9,6 @@ Structured Organization: Problems are categorized by topics such as arrays, stri
 
 Problem Links: Every solution is accompanied by a link to the original problem, enabling users to attempt the problem themselves before checking the solution.
 
-Multiple Programming Languages: While most solutions are in [specify your primary language, e.g., Python/C++/Java], some problems may have implementations in multiple languages to provide different perspectives.
-
 Learning Resource: Along with working solutions, some files include detailed explanations, step-by-step approaches, and insights into optimization techniques, making it a great learning resource for beginners and advanced programmers alike.
 
 Continuous Updates: This repository is actively maintained, with new problems added regularly as I continue solving and improving my coding skills.
