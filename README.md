@@ -20,8 +20,14 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
