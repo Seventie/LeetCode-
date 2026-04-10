@@ -21,6 +21,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
@@ -90,6 +91,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,8 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Seventie/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
