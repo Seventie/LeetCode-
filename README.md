@@ -22,6 +22,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
@@ -56,6 +57,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
+| [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -87,4 +89,8 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
