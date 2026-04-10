@@ -17,6 +17,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Seventie/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Seventie/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
@@ -52,6 +53,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
