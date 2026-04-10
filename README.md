@@ -28,6 +28,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0238-product-of-array-except-self](https://github.com/Seventie/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Seventie/LeetCode-/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Seventie/LeetCode-/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
