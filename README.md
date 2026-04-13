@@ -77,6 +77,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Seventie/LeetCode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -123,4 +124,5 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Seventie/LeetCode-/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Seventie/LeetCode-/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
