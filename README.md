@@ -128,5 +128,6 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0136-single-number](https://github.com/Seventie/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Seventie/LeetCode-/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Seventie/LeetCode-/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Seventie/LeetCode-/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0338-counting-bits](https://github.com/Seventie/LeetCode-/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
