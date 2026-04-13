@@ -105,6 +105,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0338-counting-bits](https://github.com/Seventie/LeetCode-/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -125,4 +126,5 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0136-single-number](https://github.com/Seventie/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Seventie/LeetCode-/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/Seventie/LeetCode-/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
