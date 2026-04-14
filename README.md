@@ -49,6 +49,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0151-reverse-words-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
