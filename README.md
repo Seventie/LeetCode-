@@ -36,6 +36,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0260-single-number-iii](https://github.com/Seventie/LeetCode-/tree/main/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Seventie/LeetCode-/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Hash Table
@@ -47,6 +48,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
+| [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +160,16 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
