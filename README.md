@@ -22,6 +22,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/Seventie/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -77,6 +78,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0015-3sum](https://github.com/Seventie/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Seventie/LeetCode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -115,6 +117,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Seventie/LeetCode-/tree/main/0338-counting-bits/) | Easy |
@@ -147,4 +150,12 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seventie/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
