@@ -3,14 +3,17 @@ class Solution:
         if not nums :
             return 0
         n = set(nums)
+        seen = {}
         maxi = 0 
         for x in n :
-            if x-1 not in n :
+            if x-1 not in n and x not in seen :
                 current = x 
                 c = 1 
-                while current+1 in n :
+                seen[x] = True
+                while current+1 in n:
                     c += 1
                     current += 1
+                    seen[x] = True 
                 maxi = max(maxi,c)
         return maxi
 
