@@ -10,4 +10,4 @@ class Solution:
             prev = nums[x - k]
             tot = tot + nums[x] - prev  
             ans = max(ans ,tot)
-        return ans 
+        return ans/k
