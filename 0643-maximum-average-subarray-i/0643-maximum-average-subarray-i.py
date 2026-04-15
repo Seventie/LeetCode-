@@ -5,10 +5,9 @@ class Solution:
         ans = 0
         for x in range(k) :
             ans += nums[x]
-        tot = ans 
-        ans /= k 
+        tot = ans  
         for x in range(k,len(nums)):
             prev = nums[x - k]
             tot = tot + nums[x] - prev  
-            ans = max(ans ,tot/k)
+            ans = max(ans ,tot)
         return ans 
