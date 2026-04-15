@@ -39,6 +39,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Seventie/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Seventie/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -58,6 +59,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Seventie/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
@@ -167,6 +169,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Seventie/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Seventie/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Seventie/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
