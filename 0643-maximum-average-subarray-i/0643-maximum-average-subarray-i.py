@@ -7,10 +7,8 @@ class Solution:
             ans += nums[x]
         tot = ans 
         ans /= k 
-        print(ans)
         for x in range(k,len(nums)):
             prev = nums[x - k]
             tot = tot + nums[x] - prev  
             ans = max(ans ,tot/k)
-            print(ans, "->" , nums[x])
         return ans 
