@@ -12,7 +12,7 @@ class Solution:
             count = 0
             for right in range(start, len(s) - w + 1, w):
                 word = s[right: right+w]
-                if word not in need: # variables reset logic
+                if word not in need: 
                     seen.clear()
                     count = 0
                     left = right + w
