@@ -65,6 +65,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0523-continuous-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Seventie/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
@@ -98,6 +99,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -122,6 +124,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +234,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Seventie/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
