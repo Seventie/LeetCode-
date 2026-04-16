@@ -2,28 +2,31 @@ class Solution:
     def findSubstring(self, s: str, words: List[str]) -> List[int]:
         if not words or not s:
             return []
-        w = len(words[0])
-        n = len(words)
-        need = Counter(words)
-        res = []
-        for start in range(w):
-            left = start
-            seen = Counter()
+        a = len(s)
+        b = len(words[0])
+        corpus = Counter(words)
+        ans = []
+        total_words = len(words)
+        for x in range(b):
+            left = x
             count = 0
-            for right in range(start, len(s) - w + 1, w):
-                word = s[right: right+w]
-                if word not in need: 
+            seen = Counter()
+            for i in range(x, a, b):   
+                word = s[i:i+b]
+                if word not in corpus:
                     seen.clear()
                     count = 0
-                    left = right + w
+                    left = i + b       
                     continue
-                seen[word] += 1
+                seen[word] += 1        
                 count += 1
-                while seen[word] > need[word]:
-                    left_word = s[left: left+w]
+                while seen[word] > corpus[word]:
+                    left_word = s[left:left+b]
                     seen[left_word] -= 1
+                    left += b
                     count -= 1
-                    left += w
-                if count == n:
-                    res.append(left)
-        return res
+                if count == total_words:
+                    ans.append(left)
+
+        return ans
+                
