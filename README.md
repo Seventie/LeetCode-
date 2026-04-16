@@ -54,6 +54,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Seventie/LeetCode-/tree/main/0001-two-sum/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/Seventie/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -93,6 +94,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Seventie/LeetCode-/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Seventie/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Seventie/LeetCode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -234,6 +236,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
