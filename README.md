@@ -61,6 +61,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Seventie/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -95,6 +96,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0205-isomorphic-strings](https://github.com/Seventie/LeetCode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -228,6 +230,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Seventie/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
