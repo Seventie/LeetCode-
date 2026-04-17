@@ -134,6 +134,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Seventie/LeetCode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Seventie/LeetCode-/tree/main/0125-valid-palindrome/) | Easy |
+| [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Seventie/LeetCode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seventie/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -232,6 +233,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +243,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Seventie/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Seventie/LeetCode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Seventie/LeetCode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0707-design-linked-list/) | Medium |
@@ -279,4 +282,8 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
