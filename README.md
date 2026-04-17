@@ -127,6 +127,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Seventie/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Seventie/LeetCode-/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Seventie/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
@@ -237,6 +238,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Seventie/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Seventie/LeetCode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0707-design-linked-list/) | Medium |
