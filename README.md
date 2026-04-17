@@ -50,6 +50,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Seventie/LeetCode-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Seventie/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Seventie/LeetCode-/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Seventie/LeetCode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -183,6 +184,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Seventie/LeetCode-/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
