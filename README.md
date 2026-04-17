@@ -24,6 +24,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0041-first-missing-positive](https://github.com/Seventie/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Seventie/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -136,6 +137,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Seventie/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/Seventie/LeetCode-/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Seventie/LeetCode-/tree/main/0191-number-of-1-bits/) | Easy |
@@ -170,6 +172,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Seventie/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Seventie/LeetCode-/tree/main/0338-counting-bits/) | Easy |
