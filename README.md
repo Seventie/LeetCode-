@@ -47,6 +47,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Seventie/LeetCode-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Seventie/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Seventie/LeetCode-/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -142,6 +143,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0190-reverse-bits](https://github.com/Seventie/LeetCode-/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Seventie/LeetCode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0338-counting-bits](https://github.com/Seventie/LeetCode-/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Seventie/LeetCode-/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -255,4 +258,12 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
