@@ -64,6 +64,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Seventie/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
@@ -103,6 +104,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0205-isomorphic-strings](https://github.com/Seventie/LeetCode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Seventie/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
@@ -241,6 +243,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seventie/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Seventie/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Seventie/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
