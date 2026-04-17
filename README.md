@@ -54,6 +54,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Seventie/LeetCode-/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seventie/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/Seventie/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
@@ -92,6 +93,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seventie/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Seventie/LeetCode-/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Seventie/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
@@ -236,6 +238,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seventie/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
