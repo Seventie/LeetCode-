@@ -239,12 +239,14 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Seventie/LeetCode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
+| [0707-design-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Seventie/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
+| [0707-design-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0707-design-linked-list/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
