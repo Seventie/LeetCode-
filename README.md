@@ -133,6 +133,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Seventie/LeetCode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Seventie/LeetCode-/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Seventie/LeetCode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
@@ -245,6 +246,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Seventie/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Seventie/LeetCode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Seventie/LeetCode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Seventie/LeetCode-/tree/main/0086-partition-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Seventie/LeetCode-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Seventie/LeetCode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
