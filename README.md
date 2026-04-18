@@ -197,6 +197,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Seventie/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Seventie/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -244,6 +245,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Seventie/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Seventie/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Seventie/LeetCode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Seventie/LeetCode-/tree/main/0061-rotate-list/) | Medium |
@@ -292,6 +294,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Seventie/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Seventie/LeetCode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
