@@ -242,6 +242,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Seventie/LeetCode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Seventie/LeetCode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Seventie/LeetCode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Seventie/LeetCode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -285,5 +286,6 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Seventie/LeetCode-/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
