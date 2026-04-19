@@ -64,6 +64,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0041-first-missing-positive](https://github.com/Seventie/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Seventie/LeetCode-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Seventie/LeetCode-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Seventie/LeetCode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -107,6 +108,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0014-longest-common-prefix](https://github.com/Seventie/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Seventie/LeetCode-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Seventie/LeetCode-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Seventie/LeetCode-/tree/main/0205-isomorphic-strings/) | Easy |
@@ -280,6 +282,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seventie/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Seventie/LeetCode-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Seventie/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
