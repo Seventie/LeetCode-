@@ -126,6 +126,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Seventie/LeetCode-/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Seventie/LeetCode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +260,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0155-min-stack](https://github.com/Seventie/LeetCode-/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Seventie/LeetCode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,4 +342,8 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Seventie/LeetCode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
