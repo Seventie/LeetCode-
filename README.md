@@ -256,6 +256,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0020-valid-parentheses](https://github.com/Seventie/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/Seventie/LeetCode-/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
@@ -286,6 +287,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Seventie/LeetCode-/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Seventie/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
