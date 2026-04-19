@@ -108,6 +108,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seventie/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Seventie/LeetCode-/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Seventie/LeetCode-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Seventie/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seventie/LeetCode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Seventie/LeetCode-/tree/main/0076-minimum-window-substring/) | Hard |
@@ -251,6 +252,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Seventie/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0234-palindrome-linked-list/) | Easy |
