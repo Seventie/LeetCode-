@@ -1,15 +1,14 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        freqs = defaultdict(int)
-        res = 0
-        i = 0
+        mp = defaultdict(int)
+        i = 0 
+        ans = 0 
         for j in range(len(s)):
-            freqs[s[j]] += 1
-            maxFreq = max(freqs.values())
-            curLen = j - i + 1
-            if curLen - maxFreq > k:
-                freqs[s[i]] -= 1
+            mp[s[j]] += 1
+            curr = j - i + 1
+            _max = max(mp.values())
+            if curr - _max > k :
+                mp[s[i]] -= 1
                 i += 1
-            res = max(res, j - i + 1)
-        
-        return res
+            ans = max(ans, j - i + 1)
+        return ans 
