@@ -11,7 +11,6 @@ class Solution:
             dummy = dummy.next 
             l += 1
         parts = l//k 
-        print(parts)
         tail = ListNode(0)
         n = tail
         d2 = head 
@@ -24,10 +23,7 @@ class Solution:
                 prev = d2       #2
                 d2 = t2        # 3
             tail.next = prev    #0->2->1->None
-            print(tail)  
             tail = temp         #1 
-            print(tail)
-        print(tail)
         while d2 :
             tail.next = d2 
             tail = tail.next 
