@@ -30,6 +30,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Seventie/LeetCode-/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Seventie/LeetCode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Seventie/LeetCode-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seventie/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
@@ -211,6 +212,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Seventie/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Seventie/LeetCode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Seventie/LeetCode-/tree/main/0202-happy-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -257,6 +259,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0020-valid-parentheses](https://github.com/Seventie/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Seventie/LeetCode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Seventie/LeetCode-/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
