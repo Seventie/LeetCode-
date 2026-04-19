@@ -150,6 +150,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +272,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0707-design-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
