@@ -21,6 +21,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0015-3sum](https://github.com/Seventie/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Seventie/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Seventie/LeetCode-/tree/main/0046-permutations/) | Medium |
@@ -257,6 +258,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seventie/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
