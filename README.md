@@ -23,6 +23,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/Seventie/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Seventie/LeetCode-/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Seventie/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Seventie/LeetCode-/tree/main/0054-spiral-matrix/) | Medium |
@@ -364,4 +365,8 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Seventie/LeetCode-/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Seventie/LeetCode-/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
