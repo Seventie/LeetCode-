@@ -1,16 +1,18 @@
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
+        csum = 0 
         ans = 0 
-        psum = 0 
-        pmap = {0 : 1}
-        for x in nums :
-            psum += x 
-            rem = psum % k   
-            if rem in pmap :
-                ans += pmap[rem]
-            if rem in pmap :
-                pmap[rem] += 1
-            else :
-                pmap[rem] = 1 
+        mp = {0:1}
 
-        return ans
+        for x in nums :
+            csum += x
+            rem = csum % k
+            
+            if rem in mp :
+                ans += mp[rem]
+            if rem in mp :
+                mp[rem] += 1 
+            else :
+                mp[rem] = 1
+
+        return ans 
