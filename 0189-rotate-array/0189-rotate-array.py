@@ -5,6 +5,7 @@ class Solution:
         """ 
         if k == 0 :
             return nums
+        k = k % len(nums)
         i = 0 
         j = len(nums) - 1 
         while i < j :
