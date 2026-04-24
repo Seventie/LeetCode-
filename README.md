@@ -53,6 +53,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0643-maximum-average-subarray-i](https://github.com/Seventie/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
+| [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -277,6 +278,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0227-basic-calculator-ii](https://github.com/Seventie/LeetCode-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Seventie/LeetCode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Seventie/LeetCode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
@@ -284,6 +286,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Seventie/LeetCode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
