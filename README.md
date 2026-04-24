@@ -47,6 +47,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0283-move-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Seventie/LeetCode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0456-132-pattern](https://github.com/Seventie/LeetCode-/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Seventie/LeetCode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Seventie/LeetCode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -264,6 +265,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0033-search-in-rotated-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seventie/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0456-132-pattern](https://github.com/Seventie/LeetCode-/tree/main/0456-132-pattern/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Seventie/LeetCode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Stack
@@ -277,6 +279,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0155-min-stack](https://github.com/Seventie/LeetCode-/tree/main/0155-min-stack/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Seventie/LeetCode-/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0456-132-pattern](https://github.com/Seventie/LeetCode-/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Seventie/LeetCode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Seventie/LeetCode-/tree/main/0901-online-stock-span/) | Medium |
@@ -286,6 +289,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0456-132-pattern](https://github.com/Seventie/LeetCode-/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Seventie/LeetCode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Seventie/LeetCode-/tree/main/0901-online-stock-span/) | Medium |
@@ -385,4 +389,8 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Seventie/LeetCode-/tree/main/0901-online-stock-span/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/Seventie/LeetCode-/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
