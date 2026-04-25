@@ -11,7 +11,6 @@ class Solution:
                 var = st[-1]
                 st.pop()
             st.append(nums[x])
-            print(var)
         
         return False
 
