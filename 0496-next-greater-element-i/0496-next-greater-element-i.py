@@ -3,14 +3,21 @@ class Solution:
         mp = {}
         st = []
 
-        for x in nums2:
-            while st and x > st[-1]:
-                mp[st[-1]] = x
-                st.pop()
-            st.append(x)
+        for x in range(len(nums2)-1,-1,-1) :
+            if not st :
+                mp[nums2[x]] = -1 
+            else :
+                while st and nums2[x] > st[-1] :
+                    st.pop()
+                if not st :
+                    mp[nums2[x]] = -1
+                else :
+                    mp[nums2[x]] = st[-1]
+            st.append(nums2[x])
 
         ans = []
-        for x in nums1:
-            ans.append(mp.get(x, -1))
+        for x in nums1 :
+            ans.append(mp[x])
 
-        return ans
+        return ans 
+
