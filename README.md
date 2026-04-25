@@ -59,6 +59,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Seventie/LeetCode-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Seventie/LeetCode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
@@ -115,6 +116,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +359,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Seventie/LeetCode-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -383,6 +386,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Seventie/LeetCode-/tree/main/0054-spiral-matrix/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Seventie/LeetCode-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Seventie/LeetCode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Matrix
