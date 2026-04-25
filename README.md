@@ -29,6 +29,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0053-maximum-subarray](https://github.com/Seventie/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Seventie/LeetCode-/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Seventie/LeetCode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -275,6 +276,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0020-valid-parentheses](https://github.com/Seventie/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Seventie/LeetCode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Seventie/LeetCode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Seventie/LeetCode-/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Seventie/LeetCode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Seventie/LeetCode-/tree/main/0155-min-stack/) | Medium |
@@ -291,6 +293,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Seventie/LeetCode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0456-132-pattern](https://github.com/Seventie/LeetCode-/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Seventie/LeetCode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
