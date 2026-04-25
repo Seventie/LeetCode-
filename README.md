@@ -62,6 +62,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [1004-max-consecutive-ones-iii](https://github.com/Seventie/LeetCode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Seventie/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Seventie/LeetCode-/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Seventie/LeetCode-/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Seventie/LeetCode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
@@ -284,6 +285,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Seventie/LeetCode-/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Seventie/LeetCode-/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Seventie/LeetCode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -293,6 +295,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0496-next-greater-element-i](https://github.com/Seventie/LeetCode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Seventie/LeetCode-/tree/main/0901-online-stock-span/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Seventie/LeetCode-/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
