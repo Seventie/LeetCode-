@@ -64,6 +64,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [1004-max-consecutive-ones-iii](https://github.com/Seventie/LeetCode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Seventie/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Seventie/LeetCode-/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/Seventie/LeetCode-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Seventie/LeetCode-/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -190,6 +191,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +227,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Seventie/LeetCode-/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,11 +363,13 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Seventie/LeetCode-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
