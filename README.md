@@ -63,6 +63,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0974-subarray-sums-divisible-by-k](https://github.com/Seventie/LeetCode-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Seventie/LeetCode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Seventie/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Seventie/LeetCode-/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -191,6 +192,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -353,6 +355,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Seventie/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Seventie/LeetCode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Seventie/LeetCode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -363,12 +366,14 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Seventie/LeetCode-/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -411,4 +416,5 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Seventie/LeetCode-/tree/main/0456-132-pattern/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
