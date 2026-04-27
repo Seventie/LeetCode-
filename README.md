@@ -1,6 +1,6 @@
 # LeetCode - Problems and Solutions
 
-Welcome to my problem-solving journey. I have solved 250+ LeetCode problems, and I push every time I solve a new one to show my consistency and to look back at my progress.
+Welcome to my problem-solving journey. I have solved 300+ LeetCode problems, and I push every time I solve a new one to show my consistency and to look back at my progress.
 
 ## What's in this repo
 - Topic folders like Arrays, Trees, LinkedList, Heap, and Bit Manipulation
