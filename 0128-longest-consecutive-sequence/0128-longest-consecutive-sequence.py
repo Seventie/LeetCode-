@@ -1,20 +1,14 @@
 class Solution:
-    def longestConsecutive(self, nums: List[int]) -> int:  
-        if not nums :
-            return 0
-        n = set(nums)
-        seen = {}
-        maxi = 0 
-        for x in n :
-            if x-1 not in n and x not in seen :
-                current = x 
-                c = 1 
-                seen[x] = True
-                while current+1 in n:
-                    c += 1
-                    current += 1
-                    seen[x] = True 
-                maxi = max(maxi,c)
-        return maxi
-
-        
+    def longestConsecutive(self, nums: List[int]) -> int:
+        hashmap=set(nums)
+        max_length=0
+        for num in hashmap:
+            if num-1 not in hashmap:
+                current=num
+                length=0
+                while current in hashmap:
+                    length+=1
+                    current+=1
+                max_length=max(max_length,length)
+        return max_length
+                    
