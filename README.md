@@ -68,6 +68,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0977-squares-of-a-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Seventie/LeetCode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Seventie/LeetCode-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Seventie/LeetCode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
@@ -240,6 +241,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Seventie/LeetCode-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Seventie/LeetCode-/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
 ## Math
@@ -420,6 +422,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0064-minimum-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Seventie/LeetCode-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
