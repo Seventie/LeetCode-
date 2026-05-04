@@ -33,6 +33,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0073-set-matrix-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Seventie/LeetCode-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0120-triangle](https://github.com/Seventie/LeetCode-/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -229,6 +230,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0062-unique-paths](https://github.com/Seventie/LeetCode-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Seventie/LeetCode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/Seventie/LeetCode-/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Seventie/LeetCode-/tree/main/0152-maximum-product-subarray/) | Medium |
