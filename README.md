@@ -221,6 +221,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0032-longest-valid-parentheses](https://github.com/Seventie/LeetCode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Seventie/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/Seventie/LeetCode-/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -236,6 +237,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Seventie/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/Seventie/LeetCode-/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Seventie/LeetCode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Seventie/LeetCode-/tree/main/0202-happy-number/) | Easy |
@@ -420,4 +422,8 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/Seventie/LeetCode-/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Seventie/LeetCode-/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
