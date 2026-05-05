@@ -5,5 +5,5 @@ class Solution:
             old = _max 
             _max = max(num ,_max*num ,_min*num)
             _min = min(num ,_min*num ,old*num)
-            ans = max(_max ,_min ,ans)
+            ans = max(_max ,ans)
         return ans 
