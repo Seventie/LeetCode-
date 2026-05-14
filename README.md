@@ -28,6 +28,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Seventie/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Seventie/LeetCode-/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Seventie/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Seventie/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Seventie/LeetCode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0064-minimum-path-sum/) | Medium |
@@ -234,6 +235,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0032-longest-valid-parentheses](https://github.com/Seventie/LeetCode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Seventie/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Seventie/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Seventie/LeetCode-/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Seventie/LeetCode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0064-minimum-path-sum/) | Medium |
@@ -279,6 +281,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Seventie/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Seventie/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
