@@ -161,6 +161,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/Seventie/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0824-goat-latin](https://github.com/Seventie/LeetCode-/tree/main/0824-goat-latin/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Seventie/LeetCode-/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
