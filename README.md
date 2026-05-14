@@ -22,6 +22,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Seventie/LeetCode-/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/Seventie/LeetCode-/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/Seventie/LeetCode-/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Seventie/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Seventie/LeetCode-/tree/main/0046-permutations/) | Medium |
@@ -446,6 +447,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Seventie/LeetCode-/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Seventie/LeetCode-/tree/main/0046-permutations/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
