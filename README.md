@@ -112,6 +112,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0791-custom-sort-string](https://github.com/Seventie/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Seventie/LeetCode-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -129,6 +130,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Seventie/LeetCode-/tree/main/0242-valid-anagram/) | Easy |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0791-custom-sort-string](https://github.com/Seventie/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -156,6 +158,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0535-encode-and-decode-tinyurl](https://github.com/Seventie/LeetCode-/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0791-custom-sort-string](https://github.com/Seventie/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
