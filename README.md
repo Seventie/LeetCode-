@@ -423,6 +423,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -471,6 +472,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Seventie/LeetCode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,4 +482,5 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Seventie/LeetCode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
