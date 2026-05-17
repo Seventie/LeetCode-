@@ -437,6 +437,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,12 +487,14 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Seventie/LeetCode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Seventie/LeetCode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
