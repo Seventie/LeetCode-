@@ -1,11 +1,18 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
         n = len(nums)
-        dp = [float('inf')] * n
-        dp[0] = 0
-        for i in range(n):
-            for jump in range(1, nums[i] + 1):
-                nxt = i + jump
-                if nxt < n:
-                    dp[nxt] = min(dp[nxt], dp[i] + 1)
-        return dp[-1]
+        if n <= 1:
+            return 0
+        jumps = 0
+        curr_end = 0 
+        max_reach = 0  
+        for i in range(n - 1):
+            max_reach = max(max_reach, i + nums[i])
+
+            if i == curr_end:
+                jumps += 1
+                curr_end = max_reach
+                if curr_end >= n - 1:
+                    break
+
+        return jumps
