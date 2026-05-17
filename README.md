@@ -47,6 +47,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Seventie/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Seventie/LeetCode-/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Seventie/LeetCode-/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Seventie/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Seventie/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Seventie/LeetCode-/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -405,6 +406,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -431,6 +433,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
@@ -452,6 +455,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0063-unique-paths-ii](https://github.com/Seventie/LeetCode-/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Seventie/LeetCode-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -486,6 +490,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Seventie/LeetCode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
