@@ -168,6 +168,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0791-custom-sort-string](https://github.com/Seventie/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0824-goat-latin](https://github.com/Seventie/LeetCode-/tree/main/0824-goat-latin/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Seventie/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Seventie/LeetCode-/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
@@ -304,6 +305,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0621-task-scheduler](https://github.com/Seventie/LeetCode-/tree/main/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Seventie/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +341,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0496-next-greater-element-i](https://github.com/Seventie/LeetCode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Seventie/LeetCode-/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Seventie/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Seventie/LeetCode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Seventie/LeetCode-/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Seventie/LeetCode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
