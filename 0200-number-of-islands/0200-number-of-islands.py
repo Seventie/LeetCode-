@@ -3,17 +3,16 @@ class Solution:
         n = len(grid)
         m = len(grid[0])
         moves = [[-1,0],[0,-1],[1,0],[0,1]]
-        def dfs(x, y):
+        def dfs(x,y):
             if x < 0 or y < 0 or x >= n or y >= m or grid[x][y] != "1":
                 return
-            grid[x][y] = "#"
-            for dx, dy in moves:
-                dfs(x + dx, y + dy)
-        islands = 0
-        for i in range(n):
-            for j in range(m):
-                if grid[i][j] == "1":
-                    islands += 1
-                    dfs(i, j)
-        return islands
-                
+            grid[x][y] = "@"
+            for i in moves:
+                dfs(x + i[0], y + i[1])
+        ans = 0
+        for x in range(n):
+            for y in range(m):
+                if grid[x][y] == "1":
+                    dfs(x,y)
+                    ans += 1
+        return ans
