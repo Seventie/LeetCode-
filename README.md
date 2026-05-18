@@ -41,6 +41,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seventie/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/Seventie/LeetCode-/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Seventie/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Seventie/LeetCode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Seventie/LeetCode-/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -307,6 +308,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0045-jump-game-ii](https://github.com/Seventie/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Seventie/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Seventie/LeetCode-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0135-candy](https://github.com/Seventie/LeetCode-/tree/main/0135-candy/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/Seventie/LeetCode-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0621-task-scheduler](https://github.com/Seventie/LeetCode-/tree/main/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
