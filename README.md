@@ -68,6 +68,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Seventie/LeetCode-/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Seventie/LeetCode-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -139,6 +140,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/Seventie/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Seventie/LeetCode-/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -221,6 +223,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0621-task-scheduler](https://github.com/Seventie/LeetCode-/tree/main/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Seventie/LeetCode-/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Seventie/LeetCode-/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1696-jump-game-vi](https://github.com/Seventie/LeetCode-/tree/main/1696-jump-game-vi/) | Medium |
@@ -305,6 +308,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0621-task-scheduler](https://github.com/Seventie/LeetCode-/tree/main/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Seventie/LeetCode-/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Seventie/LeetCode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
