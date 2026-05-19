@@ -422,6 +422,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +454,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
@@ -515,6 +517,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0133-clone-graph](https://github.com/Seventie/LeetCode-/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
@@ -528,5 +531,6 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Seventie/LeetCode-/tree/main/0133-clone-graph/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
