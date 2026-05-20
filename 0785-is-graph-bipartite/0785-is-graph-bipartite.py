@@ -1,19 +1,20 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        color = {}
+        _seen = {}
 
-        def dfs(i, c):
-            color[i] = c
-            for j in graph[i]:
-                if j in color:
-                    if color[j] == c:
+        def dfs(idx, color):
+            _seen[idx] = color
+
+            for x in graph[idx]:
+                if x in _seen:
+                    if _seen[x] == color:
                         return False
-                    continue
-                elif not dfs(j, 1 - c):
-                    return False
+                else:
+                    if not dfs(x, not color):
+                        return False
             return True
         for x in range(len(graph)):
-            if x not in color:
+            if x not in _seen:
                 if not dfs(x, 0):
                     return False
         return True
