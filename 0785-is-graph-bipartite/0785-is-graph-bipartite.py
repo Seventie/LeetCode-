@@ -4,7 +4,6 @@ class Solution:
 
         def dfs(idx, color):
             _seen[idx] = color
-
             for x in graph[idx]:
                 if x in _seen:
                     if _seen[x] == color:
