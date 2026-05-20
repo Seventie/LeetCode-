@@ -65,6 +65,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0621-task-scheduler](https://github.com/Seventie/LeetCode-/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Seventie/LeetCode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
+| [0690-employee-importance](https://github.com/Seventie/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
@@ -119,6 +120,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0567-permutation-in-string](https://github.com/Seventie/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Seventie/LeetCode-/tree/main/0621-task-scheduler/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
+| [0690-employee-importance](https://github.com/Seventie/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0706-design-hashmap](https://github.com/Seventie/LeetCode-/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/Seventie/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
@@ -453,6 +455,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Seventie/LeetCode-/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0690-employee-importance](https://github.com/Seventie/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -508,6 +511,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Seventie/LeetCode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0690-employee-importance](https://github.com/Seventie/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Breadth-First Search
@@ -516,6 +520,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Seventie/LeetCode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/Seventie/LeetCode-/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
+| [0690-employee-importance](https://github.com/Seventie/LeetCode-/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
