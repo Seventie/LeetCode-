@@ -1,21 +1,34 @@
 class Solution:
-    def pacificAtlantic(self, heights):
-        if not heights:
-            return []
-        m, n = len(heights), len(heights[0])
-        directions = [(1,0), (-1,0), (0,1), (0,-1)]
-        
-        def dfs(i, j, visited):
-            visited.add((i, j))
-            for dx, dy in directions:
-                x, y = i + dx, j + dy
-                if 0 <= x < m and 0 <= y < n:
-                    if (x, y) not in visited and heights[x][y] >= heights[i][j]:
-                        dfs(x, y, visited)
+    def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        n = len(heights)
+        m = len(heights[0])
+        pacific = set()
+        atlantic = set()
+        moves = [
+            (0, 1),
+            (0, -1),
+            (1, 0),
+            (-1, 0)
+        ]
+        def dfs(x, y, visited):
+            visited.add((x, y))
+            for dx, dy in moves:
+                nx, ny = x + dx, y + dy
 
-        pacific, atlantic = set(), set()
-        for j in range(n): dfs(0, j, pacific)
-        for i in range(m): dfs(i, 0, pacific)
-        for j in range(n): dfs(m-1, j, atlantic)
-        for i in range(m): dfs(i, n-1, atlantic)
-        return list(pacific & atlantic)
+                if (
+                    0 <= nx < n and
+                    0 <= ny < m and
+                    (nx, ny) not in visited and
+                    heights[nx][ny] >= heights[x][y]
+                ):
+                    dfs(nx, ny, visited)
+        for y in range(m):
+            dfs(0, y, pacific)
+            dfs(n - 1, y, atlantic)
+        for x in range(n):
+            dfs(x, 0, pacific)
+            dfs(x, m - 1, atlantic)
+        ans = []
+        for cell in pacific & atlantic:
+            ans.append(list(cell))
+        return ans
