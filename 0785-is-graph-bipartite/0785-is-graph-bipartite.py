@@ -1,19 +1,16 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        _seen = {}
-
-        def dfs(idx, color):
-            _seen[idx] = color
-            for x in graph[idx]:
-                if x in _seen:
-                    if _seen[x] == color:
-                        return False
-                else:
-                    if not dfs(x, not color):
-                        return False
+        color = {}
+        def dfs(node, clr):
+            if node in color:
+                return color[node] == clr
+            color[node] = clr
+            for nei in graph[node]:
+                if not dfs(nei, not clr):
+                    return False
             return True
-        for x in range(len(graph)):
-            if x not in _seen:
-                if not dfs(x, 0):
+        for node in range(len(graph)):
+            if node not in color:
+                if not dfs(node, True):
                     return False
         return True
