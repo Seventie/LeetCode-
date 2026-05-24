@@ -81,6 +81,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0950-reveal-cards-in-increasing-order](https://github.com/Seventie/LeetCode-/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Seventie/LeetCode-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Seventie/LeetCode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/Seventie/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Seventie/LeetCode-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/Seventie/LeetCode-/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Seventie/LeetCode-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -493,6 +494,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0994-rotting-oranges](https://github.com/Seventie/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Seventie/LeetCode-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -539,6 +541,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/Seventie/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
