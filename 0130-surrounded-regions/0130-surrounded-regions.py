@@ -3,25 +3,29 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        m = len(board)
-        n = len(board[0])
-        def dfs(r, c):
-            if r < 0 or r >= m or c < 0 or c >= n or board[r][c] != "O":
+        n = len(board)
+        m = len(board[0])
+        moves = [
+            (1, 0),
+            (-1, 0),
+            (0, 1),
+            (0, -1)
+        ]
+        def dfs(x, y):
+            if x < 0 or x >= n or y < 0 or y >= m or board[x][y] != 'O':
                 return
-            board[r][c] = "S"
-            for dr, dc in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
-                dfs(r + dr, c + dc)
-
-        for r in range(m):
-            dfs(r, 0)
-            dfs(r, n - 1)
-        for c in range(n):
-            dfs(0, c)
-            dfs(m - 1, c)
-        for r in range(m):
-            for c in range(n):
-                if board[r][c] == "O":
-                    board[r][c] = "X"
-                elif board[r][c] == "S":
-                    board[r][c] = "O"
-                    
+            board[x][y] = '@'
+            for dx, dy in moves:
+                dfs(x + dx, y + dy)
+        for y in range(m):
+            dfs(0, y)
+            dfs(n - 1, y)
+        for x in range(n):
+            dfs(x, 0)
+            dfs(x, m - 1)
+        for x in range(n):
+            for y in range(m):
+                if board[x][y] == 'O':
+                    board[x][y] = 'X'
+                elif board[x][y] == '@':
+                    board[x][y] = 'O'
