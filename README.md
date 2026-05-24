@@ -72,6 +72,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Seventie/LeetCode-/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Seventie/LeetCode-/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0912-sort-an-array](https://github.com/Seventie/LeetCode-/tree/main/0912-sort-an-array/) | Medium |
@@ -428,6 +429,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0130-surrounded-regions](https://github.com/Seventie/LeetCode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +466,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Doubly-Linked List
@@ -488,6 +491,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seventie/LeetCode-/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
+| [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/Seventie/LeetCode-/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Seventie/LeetCode-/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Backtracking
@@ -533,6 +537,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0733-flood-fill](https://github.com/Seventie/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Seventie/LeetCode-/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 ## Binary Tree
