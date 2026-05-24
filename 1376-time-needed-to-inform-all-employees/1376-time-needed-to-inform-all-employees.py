@@ -6,3 +6,4 @@ class Solution:
                 manager[i] = -1
             return informTime[i]
         return max(map(find, range(n)))
+        
