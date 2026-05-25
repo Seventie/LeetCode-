@@ -104,6 +104,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0049-group-anagrams](https://github.com/Seventie/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Seventie/LeetCode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Seventie/LeetCode-/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/Seventie/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Seventie/LeetCode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/Seventie/LeetCode-/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Seventie/LeetCode-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -170,6 +171,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0058-length-of-last-word](https://github.com/Seventie/LeetCode-/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Seventie/LeetCode-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Seventie/LeetCode-/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/Seventie/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Seventie/LeetCode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Seventie/LeetCode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Seventie/LeetCode-/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -536,6 +538,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Seventie/LeetCode-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/Seventie/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Seventie/LeetCode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Seventie/LeetCode-/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Seventie/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
