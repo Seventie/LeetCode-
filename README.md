@@ -73,6 +73,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0739-daily-temperatures](https://github.com/Seventie/LeetCode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/Seventie/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0815-bus-routes](https://github.com/Seventie/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Seventie/LeetCode-/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Seventie/LeetCode-/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
@@ -131,6 +132,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0767-reorganize-string](https://github.com/Seventie/LeetCode-/tree/main/0767-reorganize-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/Seventie/LeetCode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/Seventie/LeetCode-/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0815-bus-routes](https://github.com/Seventie/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Seventie/LeetCode-/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Seventie/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -543,6 +545,7 @@ This is my personal log and reference, but anyone can come here to look for solu
 | [0752-open-the-lock](https://github.com/Seventie/LeetCode-/tree/main/0752-open-the-lock/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Seventie/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Seventie/LeetCode-/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0815-bus-routes](https://github.com/Seventie/LeetCode-/tree/main/0815-bus-routes/) | Hard |
 | [0827-making-a-large-island](https://github.com/Seventie/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Seventie/LeetCode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Seventie/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
