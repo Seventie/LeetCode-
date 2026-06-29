@@ -5,27 +5,26 @@ class Solution:
         """
         n = len(board)
         m = len(board[0])
-        moves = [
-            (1, 0),
-            (-1, 0),
-            (0, 1),
-            (0, -1)
-        ]
-        def dfs(x, y):
-            if x < 0 or x >= n or y < 0 or y >= m or board[x][y] != 'O':
-                return
-            board[x][y] = '@'
-            for dx, dy in moves:
-                dfs(x + dx, y + dy)
-        for y in range(m):
-            dfs(0, y)
-            dfs(n - 1, y)
+        dirs = [(0,1), (1,0), (-1,0), (0,-1)]
+        def filler(x, y) :
+            if x < 0 or y < 0 or y >= m or x >= n or board[x][y] != 'O' :
+                return 
+            board[x][y] = "N"
+            for dx, dy in dirs :
+                filler(x+ dx, y+ dy)
+        if n < 2 or m < 2 :
+            return board 
+        for i in range(n):
+            filler(i, 0)       
+            filler(i, m - 1)   
+        for j in range(m):
+            filler(0, j)       
+            filler(n - 1, j)  
         for x in range(n):
-            dfs(x, 0)
-            dfs(x, m - 1)
-        for x in range(n):
-            for y in range(m):
-                if board[x][y] == 'O':
-                    board[x][y] = 'X'
-                elif board[x][y] == '@':
-                    board[x][y] = 'O'
+            for y in range(m) :
+                if board[x][y] == "O" :
+                    board[x][y] = "X"
+                elif board[x][y] == "N" :
+                    board[x][y] = "O"
+        return board
+        
