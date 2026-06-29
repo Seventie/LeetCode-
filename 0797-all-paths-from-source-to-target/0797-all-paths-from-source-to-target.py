@@ -1,14 +1,15 @@
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
-        target = len(graph) - 1
+        n = len(graph)
+        final = n- 1
         ans = []
-        def dfs(node, path):
-            if node == target:
-                ans.append(path[:])   # store a copy
-                return
-            for nei in graph[node]:
-                path.append(nei)
-                dfs(nei, path)
+        def helper(a, path):
+            if a == final :
+                ans.append(path[:])
+                return 
+            for v in graph[a] :
+                path.append(v)
+                helper(v, path[:])
                 path.pop()
-        dfs(0, [0])
-        return ans
+        helper(0,[0])
+        return ans 
