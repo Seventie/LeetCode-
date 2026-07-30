@@ -1,18 +1,19 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if numRows == 1 :
-            return s
-        numRows = min(numRows,len(s))
-        storage = [""] * numRows
-        flag = 1 
-        i = 0 
-        for x in s :
-            storage[i] = storage[i] + x
-            if i == 0:
-                flag = 1 
-            if i == numRows- 1 :
-                flag = -1  
-            i+=flag 
-        return "".join(storage)
-            
+            return s 
+        n = min(len(s), numRows)
+        store = ["" for x in range(n)] 
 
+        flag = False 
+        i = 0
+        for x in range(len(s)):
+            if i == 0 or i == n- 1 :
+                flag ^= True 
+            if flag :
+                store[i] += s[x]
+                i += 1
+            else :
+                store[i] += s[x]
+                i -= 1
+        return "".join(store)
