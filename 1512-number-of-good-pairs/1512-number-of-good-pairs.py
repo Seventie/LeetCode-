@@ -1,12 +1,9 @@
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
-        store = {}
+        store = Counter(nums)
         ans = 0
-        for x in nums :
-            if x in store :
-                ans += store[x]
-                store[x] += 1
+        for x in store.values() :
+            if x != 1 :
+                ans += math.comb(x, 2)
 
-            else :
-                store[x] = 1
         return ans 
